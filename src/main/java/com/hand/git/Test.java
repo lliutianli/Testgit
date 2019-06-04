@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("right...");
 		System.out.println("left ...");
 		System.out.println("T1000...");
+		System.out.println("test...");
 	}
 
 }
